@@ -1,0 +1,6 @@
+@TpApiLast_HostAddress = http://localhost:5133
+
+GET {{TpApiLast_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
